@@ -12,4 +12,5 @@ HW5 Submitted on Nov 5th 2019
 achieved the score of 0.13301 with a ranking of 1986/4932 (Top 40%)
 https://www.kaggle.com/wgm960513
 
+HW6 11/18/2019
 
