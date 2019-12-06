@@ -15,3 +15,7 @@ https://www.kaggle.com/wgm960513
 HW6 11/18/2019
 
 HW7 11/24/2019
+
+Project: 2019/12/06. 
+Implement many classification techniques and regression techniques including ANN. Achieve a top 2 accuracy of 91% with regression methods
+
